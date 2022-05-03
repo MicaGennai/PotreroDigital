@@ -1,0 +1,10 @@
+body {background:#FEF9E7 url(imagenes/harinarecorte.jpg) fixed center}
+header {font-family: Georgia;color:#BA4A00;text-align:center; text-decoration-line: underline;}
+section{font-family: Georgia;}
+.texto {font-size:medium;}
+h2 {color:#BA4A00; text-decoration-line: underline;}
+h3 {color:#BA4A00; text-decoration-line: underline;}
+.ingredientes {font-weight: bold}
+.wsp {float: right;}
+.pasos {font-weight: bold}
+footer {text-align:center; font-size:large; color:#935116}
