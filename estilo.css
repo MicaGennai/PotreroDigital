@@ -1,0 +1,32 @@
+body {background:#FEF9E7 url(imagenes/harinarecorte.jpg) fixed center;margin: 1px; align-content: center;padding: 1px; width: 200vh; border: 1px; margin-left: 20px;}
+nav {padding: 15px;}
+header {margin-right: auto; font-family: Georgia;color:#BA4A00;text-align:center; text-decoration-line: underline;height: 15vh;font-size: 2rem;}
+section{font-family: Georgia; width: 70%; padding: 15px;}
+aside {float: right; padding: 25px;  flex-direction:column-reverse;}
+.anchi:hover {border: 7px dotted #F1C40F;}
+.anchi {height: 100%; width: 100%}
+.cook:hover {width: 10%}
+.platos:hover {width: 10%}
+.facil:hover {width: 10%;}
+.mono:hover {width: 10%;}
+.contacto {font-family: Georgia;}
+.contacto:visited {color:#E59866}
+.contacto:link {color:#D35400}
+.wsp {float: right;}
+.wasa:hover {border-radius: 45%}
+.texto {font-size: 1em;}
+h2 {color:#BA4A00; text-decoration-line: underline;}
+h2:hover{color:#E74C3C;}
+h3 {color:#BA4A00; text-decoration-line: underline;}
+h3:hover{color:#E74C3C;}
+.ingredientes {font-weight: bold}
+.pasos {font-weight: bold}
+footer {text-align:center; font-size:1.5em; color:#935116; border: 3px dotted #873600;}
+.mapa:hover {text-decoration: underline;}
+.ig:hover {border-radius: 55%}
+.fb:hover {border-radius: 55%}
+.pagina {font-family: Georgia;color:#BA4A00;text-align:center; text-decoration-line: underline;}
+.datos {font-family: Georgia;color:#BA4A00; font-style: oblique;}
+.volver {font-family: Georgia}
+.redes {display: flex;justify-content:space-around;}
+@media {min-width:740px}
